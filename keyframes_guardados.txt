@@ -1,0 +1,67 @@
+----------------------------
+---- NUEVA SESIÓN DE GUARDADO ----
+Keyframe 0:
+movAvion_x: 0
+movAvion_y: 1
+giroAvion: 0
+----------------------------
+Keyframe 1:
+movAvion_x: -2
+movAvion_y: 4
+giroAvion: 0
+----------------------------
+Keyframe 2:
+movAvion_x: -4
+movAvion_y: 0
+giroAvion: 0
+----------------------------
+Keyframe 3:
+movAvion_x: -6
+movAvion_y: -4
+giroAvion: 0
+----------------------------
+Keyframe 4:
+movAvion_x: -8
+movAvion_y: 0
+giroAvion: 0
+----------------------------
+Keyframe 5:
+movAvion_x: -10
+movAvion_y: 4
+giroAvion: 0
+----------------------------
+Keyframe 6:
+movAvion_x: -9.99936
+movAvion_y: 3.9999
+giroAvion: 180
+----------------------------
+Keyframe 7:
+movAvion_x: -7.99936
+movAvion_y: -9.82285e-05
+giroAvion: 180
+----------------------------
+Keyframe 8:
+movAvion_x: -5.99936
+movAvion_y: -4.0001
+giroAvion: 180
+----------------------------
+Keyframe 9:
+movAvion_x: -3.99936
+movAvion_y: -9.82285e-05
+giroAvion: 180
+----------------------------
+Keyframe 10:
+movAvion_x: -1.99936
+movAvion_y: 3.9999
+giroAvion: 180
+----------------------------
+Keyframe 11:
+movAvion_x: 0.000639915
+movAvion_y: 0.999902
+giroAvion: 180
+----------------------------
+Keyframe 12:
+movAvion_x: -7.23987e-07
+movAvion_y: 1
+giroAvion: 359.996
+----------------------------
